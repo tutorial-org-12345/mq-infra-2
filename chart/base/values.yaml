@@ -64,7 +64,7 @@ availability:
   hatype: NativeHA
 
 mqsc:
-  configmap: mqsc-configmap
+  configmap: mqsc-configmap-qm2
   name: config.mqsc
 
 ini:
